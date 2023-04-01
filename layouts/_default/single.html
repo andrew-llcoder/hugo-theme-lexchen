@@ -16,7 +16,6 @@
                       {{ end }}
                     {{ end }}
                   </span>
-                  <span class="category-eyebrow__date">{{ .Page.Params.Date | time.Format ":date_long"}}</span>
                 </div>
               </div>
             </div>
@@ -68,7 +67,6 @@
                   {{ i18n "copyright" }}: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed" target="_blank">{{ i18n "licenses" }}</a>
                 </p>
                 <p class="content">{{ i18n "author"}}:  {{ .Page.Params.author }} </p>
-                <p class="content">{{ i18n "postDate"}}:  {{ .Page.Params.Date | time.Format ":date_long" }}</p>
               </div>
             </div>
           </div>
