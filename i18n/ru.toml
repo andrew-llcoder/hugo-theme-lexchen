@@ -1,0 +1,30 @@
+[home]
+     other = "Главная"
+[posts]
+     other = "Статьи"
+[about]
+     other = "О нас"
+[latestArticles]
+     other = "Последние статьи"
+[moreArticles]
+     other = "Больше статей"
+[viewArchive]
+     other ="Посмотреть архив"
+[socialMedia]
+     other = "Социальные сети"
+[related]
+     other = "Связанные"
+[pagination]
+     other = "Погибание"
+[of]
+     other = "с"
+[allTags]
+     other = "Все теги"
+[author]
+     other = "Автор"
+[postDate]
+     other = "Опубликовано"
+[copyright]
+     other = "Копирайт"
+[licenses]
+     other = "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"

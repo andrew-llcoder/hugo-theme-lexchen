@@ -1,0 +1,30 @@
+﻿[home]
+     other = "Үй"
+[posts]
+     other = "Мақалалар"
+[about]
+     other = "Біз туралы"
+[latestArticles]
+     other = "Мақалалар"
+[moreArticles]
+     other = "Қосымша мақалалар"
+[viewArchive]
+     other = "Архивті қарау"
+[socialMedia]
+     other = "Әлеуметтік медиа"
+[related]
+     other = "Қатысты"
+[pagination]
+     other = "Қатысты"
+[of]
+     other = "Қатысты"
+[allTags]
+     other = "Барлық тегтер"
+[author]
+     other = "Автор"
+[postDate]
+     other = "Жарияланған"
+[copyright]
+     other = "Авторлық құқық"
+[licenses]
+     other = "Atribuire-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"

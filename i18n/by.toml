@@ -1,0 +1,30 @@
+[home]
+     other = "Дадому"
+[posts]
+     other = "Артыкулы"
+[about]
+     other = "Пра нас"
+[latestArticles]
+     other = "Артыкулы"
+[moreArticles]
+     other = "Больш артыкулаў"
+[viewArchive]
+     other="Праглядзець архіў"
+[socialMedia]
+     other = "Сацыяльныя сеткі"
+[related]
+     other = "Звязаныя"
+[pagination]
+     other = "Пагінацыя"
+[of]
+     other = "з"
+[allTags]
+     other = "Усе тэгі"
+[author]
+     other = "Аўтар"
+[postDate]
+     other = "Апублікавана"
+[copyright]
+     other = "Аўтарскае права"
+[licenses]
+     other = "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"

@@ -1,0 +1,30 @@
+[home]
+    other = "Головна"
+[posts]
+    other = "Статті"
+[about]
+    other = "Про нас"
+[latestArticles]
+    other = "Останні статті"
+[moreArticles]
+    other = "Більше статтів"
+[viewArchive]
+    other ="Подивитися архів"
+[socialMedia]
+    other = "Соціальні мережі"
+[related]
+    other = "Пов'язані"
+[pagination]
+    other = "Пагінація"
+[of]
+    other = "з"
+[allTags]
+    other = "Усі теги"
+[author]
+    other = "Автор"
+[postDate]
+    other = "Опубліковано"
+[copyright]
+    other = "Копірайт"
+[licenses]
+    other = "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"

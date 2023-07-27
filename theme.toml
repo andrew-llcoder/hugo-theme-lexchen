@@ -1,6 +1,6 @@
-name = "iTheme"
+name = "LexWebTheme"
 license = "GPL-3.0"
-licenselink = "https://github.com/floyd-li/hugo-theme-itheme/blob/master/LICENSE"
+licenselink = "https://github.com/lxchn1v1/hugo-theme-lexchen/blob/master/LICENSE"
 description = "An Apple's Style Theme"
 homepage = "https://github.com/floyd-li/hugo-theme-itheme"
 demosite = "https://hugo-theme-itheme.netlify.app"
